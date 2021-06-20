@@ -1,2 +1,0 @@
-# Python-Algorithm
-# 1
